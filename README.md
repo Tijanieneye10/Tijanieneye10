@@ -1,4 +1,9 @@
-### Hi there 👋
-I'am Tijani Usman a Software Developer from Nigeria, I really enjoy problem solving and learning languages and frameworks like Javascript, PHP, Nodejs, Codeigniter, React and Expressjs.
+### Hi there 👋, Tijani Usman
+#### Software Developer
+![Software Developer](https://briangor.github.io/images/pic02.png)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Tijanieneye10)
+I enjoy being challenged and engaging with projects that require me to work outside my comfort and knowledge set, as continuing to learn new languages and development techniques are important to me.
+
+Skills: PHP/JAVASCRIPT/CODEIGNITER / REACT / MONGODB/ HTML / CSS
+
+- 🔭 I’m currently working on this page. 
