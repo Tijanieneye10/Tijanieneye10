@@ -1,11 +1,13 @@
 ![Web/Software Developer & Graphics Designer](https://briangor.github.io/images/pic02.png)
-### Hi there 👋, Tijani Usman
+#Tijani Usman
 #### Web/Software Developer & Graphics Designer
 
 Dynamic and detail-oriented Software Developer with a knack for conceptualizing and delivering elegant, user-friendly solutions effectively and efficiently. Possesses a track record of developing a fully functional website for-profit and not for profit organizations. Equipped with a diverse and promising skill-set and proficient in an assortment of technologies, including JavaScript, Nodejs, Expressjs, CSS, HTML, PHP, MYSQL, Codeigniter, WordPress, Corel Draw, Photoshop, Adobe Illustrator and Microsoft Office suites.
 
-
-Skills: PHP/JAVASCRIPT/CODEIGNITER / REACT / MONGODB/ HTML / CSS
+## Skills and Experience
+💻 MICROSOFT OFFICE SUITES, CORELDRAW, ADOBE PHOTOSHOP AND ILLUSTRATOR
+🌎 HTML, CSS, JAVASCRIPT, PHP, MONGODB
+👓 REACT, CODEIGNITER, NODEJS, EXPRESSJS
 
 
 
