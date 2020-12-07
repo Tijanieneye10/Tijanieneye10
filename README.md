@@ -13,8 +13,12 @@ Dynamic and detail-oriented Software Developer with a knack for conceptualizing 
 👓 REACT, CODEIGNITER, NODEJS, EXPRESSJS
 
 ## My works
+<p float="left">
 <img src="https://github.com/Tijanieneye10/myportfolio/blob/master/public/uploads/Capture.PNG" width="350">
 <img src="https://github.com/Tijanieneye10/myportfolio/blob/master/public/uploads/Capture.PNG" width="350">
+<img src="https://github.com/Tijanieneye10/myportfolio/blob/master/public/uploads/Capture.PNG" width="350">
+</p>
+
 
 
 
