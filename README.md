@@ -6,11 +6,11 @@ Dynamic and detail-oriented Software Developer with a knack for conceptualizing 
 
 ## Skills and Experience
 
-💻 MICROSOFT OFFICE SUITES, CORELDRAW, ADOBE PHOTOSHOP AND ILLUSTRATOR
+📱 DART/FLUTTER
 
-🌎 HTML, CSS, JAVASCRIPT, PHP, MONGODB
+🌎 HTML, CSS, JAVASCRIPT, PHP, WORDPRESS
 
-👓 REACT, CODEIGNITER, NODEJS, EXPRESSJS
+👓 LARAVEL, CODEIGNITER 3&4, NODEJS, EXPRESSJS
 
 ## My works
 <p float="left">
