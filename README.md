@@ -14,7 +14,7 @@ Dynamic and detail-oriented Software Developer with a knack for conceptualizing 
 
 ## My works
 <p float="left">
-<img src="https://github.com/Tijanieneye10/myportfolio/blob/master/public/uploads/Capture.PNG" width="280" height="170">
+<!-- <img src="https://github.com/Tijanieneye10/myportfolio/blob/master/public/uploads/Capture.PNG" width="280" height="170"> -->
 <img src="https://github.com/Tijanieneye10/myportfolio/blob/master/public/uploads/eduportal1.PNG" width="280" height="170">
 <img src="https://github.com/Tijanieneye10/myportfolio/blob/master/public/uploads/sebede.PNG" width="280" height="170">
 </p>
