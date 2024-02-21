@@ -1,28 +1,37 @@
-![Web/Software Developer & Graphics Designer](https://briangor.github.io/images/pic02.png)
-# Tijani Usman
-#### Web/Software Developer & Graphics Designer
 
-Dynamic and detail-oriented Software Developer with a knack for conceptualizing and delivering elegant, user-friendly solutions effectively and efficiently. Possesses a track record of developing a fully functional website for-profit and not for profit organizations. Equipped with a diverse and promising skill-set and proficient in an assortment of technologies, including JavaScript, Nodejs, Expressjs, CSS, HTML, PHP, MYSQL, Codeigniter, WordPress, Corel Draw, Photoshop, Adobe Illustrator and Microsoft Office suites.
+# Hello, I'm Tijani Eneye 👋
 
-## Skills and Experience
+Welcome to my GitHub profile! I am a results-oriented Fullstack Engineer with a passion for building robust, high-performing web applications that meet the needs of businesses and their customers. With over five years of experience, I am proficient in developing user-friendly software solutions using cutting-edge technologies like JavaScript, PHP, and Golang, and I also deployed it as a scalable and cost-optimized server. I excel in implementing best practices and industry standards to deliver scalable, maintainable, and secure applications that help businesses grow. Let's connect and discuss how I can help your organization achieve its web development goals.
 
-📱 DART/FLUTTER
+## 🔧 Technologies & Tools
 
-🌎 HTML, CSS, JAVASCRIPT, PHP, WORDPRESS
+- PHP/LARAVEL
+- Javascript/Nodesjs/Vuejs
+- Golang
+- Linux
+- AWS
+- Terraform
+- GitHub Actions
+- MySQL
+- Docker
 
-👓 LARAVEL, CODEIGNITER 3&4, NODEJS, EXPRESSJS
+## 🚀 Projects
 
-## My works
-<p float="left">
-<!-- <img src="https://github.com/Tijanieneye10/myportfolio/blob/master/public/uploads/Capture.PNG" width="280" height="170"> -->
-<img src="https://github.com/Tijanieneye10/myportfolio/blob/master/public/uploads/eduportal1.PNG" width="280" height="170">
-<img src="https://github.com/Tijanieneye10/myportfolio/blob/master/public/uploads/sebede.PNG" width="280" height="170">
-</p>
+Here are some projects I'm proud of:
+
+1. **SchoolGate:** An e-learning platform to learn future-ready Skills like Coding, Robotics, Artificial Intelligence, and lots more. It was used in 2019 by Federal Ministry of Education during Covid 19.
+2. **Teacher's Hub:** A platform to manage schools and teachers across the states, currently being used by Ondo State Government.
+3. **Sebededata:** A utility payment app, where users can pay for data and airtime, and also convert airtime to cash.
+4. **DB Backup:** A scheduled backup app, that take snapshots of database and store them on  Amazon s3.
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tijanieneye10&show_icons=true&theme=radical)
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/usman-tijani-eneye/)
+- [Twitter](https://twitter.com/TijaniEneye)
 
 
-
-
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tijanieneye10)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](brainyworld)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/usman.tijani2)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/tijanieneye10)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](about.me/brainyworld10)  
-
+Feel free to reach out and let's collaborate on something amazing! 🚀
