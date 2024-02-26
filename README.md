@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I am a results-oriented Fullstack Engineer with a 
 ## 🔧 Technologies & Tools
 
 - PHP/LARAVEL
-- Javascript/Nodesjs/Vuejs
+- Javascript/Nodejs/Vuejs
 - Golang
 - Linux
 - AWS
