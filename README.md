@@ -1,7 +1,7 @@
 
 # Hello, I'm Tijani Eneye 👋
 
-Welcome to my GitHub profile! I am a results-oriented Fullstack Engineer with a passion for building robust, high-performing web applications that meet the needs of businesses and their customers. With over five years of experience, I am proficient in developing user-friendly software solutions using cutting-edge technologies like JavaScript, PHP, and Golang, and I also deployed it as a scalable and cost-optimized server. I excel in implementing best practices and industry standards to deliver scalable, maintainable, and secure applications that help businesses grow. Let's connect and discuss how I can help your organization achieve its web development goals.
+Welcome to my GitHub profile! I am a results-oriented Fullstack Engineer with a passion for building robust, high-performing web applications that meet the needs of businesses and their customers. With over five years of experience, I am proficient in developing user-friendly software solutions using cutting-edge technologies like JavaScript, PHP, and Golang, and also deployed these applications to scalable and cost-optimized servers. I excel in implementing best practices and industry standards to deliver scalable, maintainable, and secure applications that help businesses grow. Let's connect and discuss how I can help your organization achieve its web development goals.
 
 ## 🔧 Technologies & Tools
 
