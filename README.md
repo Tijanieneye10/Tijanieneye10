@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I am a results-oriented Fullstack Engineer with a 
 
 Here are some projects I'm proud of:
 
-1. **SchoolGate:** An e-learning platform to learn future-ready Skills like Coding, Robotics, Artificial Intelligence, and lots more. It was used in 2019 by Federal Ministry of Education during Covid 19.
+1. **SchoolGate:** An e-learning platform to learn future-ready Skills like Coding, Robotics, Artificial Intelligence, and lots more.
 2. **Teacher's Hub:** A platform to manage schools and teachers across the states, currently being used by Ondo State Government.
 3. **Sebededata:** A utility payment app, where users can pay for data and airtime, and also convert airtime to cash.
 4. **DB Backup:** A scheduled backup app, that take snapshots of database and store them on  Amazon s3.
