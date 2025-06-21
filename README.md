@@ -5,9 +5,9 @@
 
 ### 👋 About Me
 
-I'm Tijani, a Fullstack Software Engineer with 5+ years of hands-on experience designing, building, and maintaining backend-heavy web applications. My work focuses on delivering high-quality software that is reliable, secure, and built for scale.
+I'm Tijani, a Fullstack Software Engineer with 5+ years of hands-on experience designing, building, and maintaining systems. My work focuses on delivering high-quality software that is reliable, secure, and built for scale.
 
-I’ve architected systems across industries — from education to utilities — and deployed applications that serve thousands of users seamlessly.
+I’ve architected systems across industries from education to utilities and deployed applications that serve thousands of users seamlessly.
 
 I enjoy transforming business problems into working systems using tools like Laravel, Python, Node.js, and AWS.
 
@@ -16,7 +16,7 @@ I enjoy transforming business problems into working systems using tools like Lar
 ### 🧰 Core Technologies
 
 - **Languages & Frameworks:** PHP (Laravel), Python, JavaScript (Node.js, Vue.js)
-- **Cloud & Infrastructure:** AWS (EC2, S3, RDS), Terraform, Docker
+- **Cloud & Infrastructure:** AWS (EC2, S3, RDS, Elastic Beanstalk), Terraform, Docker
 - **DevOps & Tooling:** GitHub Actions, CI/CD, Linux, Bash
 - **Databases & Queues:** MySQL, Redis, Job Queues, RESTful APIs
 
