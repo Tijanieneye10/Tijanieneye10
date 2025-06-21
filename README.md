@@ -1,38 +1,43 @@
-# 👋 Hi there, I'm Tijani Eneye
-
-**Fullstack Software Engineer | Cloud & DevOps Enthusiast**
-
-Welcome to my GitHub profile! I'm a results-driven Fullstack Engineer with over **5 years of experience** building robust, scalable, and high-performing web applications.
-
-I specialize in designing backend systems that are fast, secure, and resilient — utilizing tools such as **Laravel, Python, and Node.js**. My development workflow involves writing clean code, adhering to industry best practices, automating deployments, and ensuring cost-optimized scalability in the cloud.
-
-I enjoy solving real-world problems with technology — from architecting system backends to managing cloud infrastructure with **AWS, Docker, and Terraform**.
+<h1 align="center">Tijani Eneye</h1>
+<h3 align="center">Software Engineer | Building Scalable Systems & Resilient APIs</h3>
 
 ---
 
-## 🛠️ Tech Stack
+### 👋 About Me
 
-**Languages:**  
-`PHP (Laravel)` • `Python` • `JavaScript/Node.js` • `Vue.js` • `Bash`
+I'm Tijani, a Fullstack Software Engineer with 5+ years of hands-on experience designing, building, and maintaining backend-heavy web applications. My work focuses on delivering high-quality software that is reliable, secure, and built for scale.
 
-**DevOps & Cloud:**  
-`Linux` • `Docker` • `AWS` • `Terraform` • `GitHub Actions`
+I’ve architected systems across industries — from education to utilities — and deployed applications that serve thousands of users seamlessly.
 
-**Databases & Tools:**  
-`MySQL` • `Redis` • `REST APIs` • `Queue Workers` • `CI/CD`
+I enjoy transforming business problems into working systems using tools like Laravel, Python, Node.js, and AWS.
 
 ---
 
-## 📊 GitHub Stats
+### 🧰 Core Technologies
 
-![Tijani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tijanieneye10&show_icons=true&theme=radical)
+- **Languages & Frameworks:** PHP (Laravel), Python, JavaScript (Node.js, Vue.js)
+- **Cloud & Infrastructure:** AWS (EC2, S3, RDS), Terraform, Docker
+- **DevOps & Tooling:** GitHub Actions, CI/CD, Linux, Bash
+- **Databases & Queues:** MySQL, Redis, Job Queues, RESTful APIs
 
 ---
 
-## 🤝 Connect with Me
+### 📊 Stats & Contributions
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tijanieneye10&show_icons=true&theme=tokyonight" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tijanieneye10&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/usman-tijani-eneye/)
 - [Twitter](https://twitter.com/TijaniEneye)
+- [Email](mailto:tijanieneye@gmail.com)
 
-Let’s collaborate, build great software, or just talk about tech 🚀  
-_Thanks for visiting my profile!_
+---
+
+_Thanks for stopping by! Always open to building meaningful solutions and working with passionate teams._ 🚀
