@@ -5,7 +5,7 @@
 
 ### 👋 About Me
 
-I'm Tijani, a Fullstack Software Engineer with 5+ years of hands-on experience designing, building, and maintaining systems. My work focuses on delivering high-quality software that is reliable, secure, and built for scale.
+I'm Tijani, a Fullstack Software Engineer with 6+ years of hands-on experience designing, building, and maintaining systems. My work focuses on delivering high-quality software that is reliable, secure, and built for scale.
 
 I have architected systems across various industries, from education to finance, and deployed applications that serve thousands of users seamlessly.
 
