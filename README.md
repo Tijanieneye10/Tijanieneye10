@@ -1,5 +1,5 @@
 <h1 align="center">Tijani Eneye</h1>
-<h3 align="center">Software Engineer | Building Scalable Systems & Resilient APIs</h3>
+<h3 align="center">Product Engineer | Building Scalable Systems & Resilient APIs</h3>
 
 ---
 
